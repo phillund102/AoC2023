@@ -1,0 +1,15 @@
+C:\AoC2023\Day2.1\bin\Debug\net8.0\Day2.1.exe
+C:\AoC2023\Day2.1\bin\Debug\net8.0\Day2.1.deps.json
+C:\AoC2023\Day2.1\bin\Debug\net8.0\Day2.1.runtimeconfig.json
+C:\AoC2023\Day2.1\bin\Debug\net8.0\Day2.1.dll
+C:\AoC2023\Day2.1\bin\Debug\net8.0\Day2.1.pdb
+C:\AoC2023\Day2.1\obj\Debug\net8.0\Day2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\AoC2023\Day2.1\obj\Debug\net8.0\Day2.1.AssemblyInfoInputs.cache
+C:\AoC2023\Day2.1\obj\Debug\net8.0\Day2.1.AssemblyInfo.cs
+C:\AoC2023\Day2.1\obj\Debug\net8.0\Day2.1.csproj.CoreCompileInputs.cache
+C:\AoC2023\Day2.1\obj\Debug\net8.0\Day2.1.sourcelink.json
+C:\AoC2023\Day2.1\obj\Debug\net8.0\Day2.1.dll
+C:\AoC2023\Day2.1\obj\Debug\net8.0\refint\Day2.1.dll
+C:\AoC2023\Day2.1\obj\Debug\net8.0\Day2.1.pdb
+C:\AoC2023\Day2.1\obj\Debug\net8.0\Day2.1.genruntimeconfig.cache
+C:\AoC2023\Day2.1\obj\Debug\net8.0\ref\Day2.1.dll
